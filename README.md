@@ -1,0 +1,2 @@
+# AtividadePensamentoComputacional
+atividade pensamento computacional
